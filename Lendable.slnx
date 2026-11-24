@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lendable.Application/Lendable.Application.csproj" />
+    <Project Path="src/Lendable.Domain/Lendable.Domain.csproj" />
+    <Project Path="src/Lendable.Infrastructure/Lendable.Infrastructure.csproj" />
+    <Project Path="src/Lendable.Web/Lendable.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lendable.ArchitectureTests/Lendable.ArchitectureTests.csproj" />
+    <Project Path="tests/Lendable.UnitTests/Lendable.UnitTests.csproj" />
+  </Folder>
+</Solution>
